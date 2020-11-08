@@ -1,9 +1,9 @@
-## Hey there :wave:
+## Hey there :wave: <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 ![](https://visitor-badge.glitch.me/badge?page_id=nicolasbsn.nicolasbsn)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 <br />
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 ### Hi, my name is Nicolas and I am currently in a Master's Degree of Data Science at Ecole Polytechnique.
 
 ### ⚡️ The purpose of this Github
