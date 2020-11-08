@@ -6,8 +6,8 @@
 
 ### ⚡️ The purpose of this Github
 <br />
-This Github contains some of my work that I have done during my labs or my free time. The purpose of this, is to give you an overview of my previous work ! I'll also upload content at a regular basis !
+This Github contains some of my work that I have done during my labs or my free time. The purpose of this, is to give you an overview of my previous work. I'll also upload content at a regular basis !
 
 ### ⚒️ How it is structured
 <br />
-You'll find below a repo per lecture, with a name and a Roman Numeral that indicates the degree of progress of a particular lecture !
+You'll find below a repo per lecture, with a name and a Roman Numeral that indicates the degree of progress of a particular lecture.
