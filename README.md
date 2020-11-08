@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=nicolasbsn.nicolasbsn)
 <br />
 
 I am currently in a Master's Degree of Data Science at Ecole Polytechnique. This Github contains some of my work that I have done during my labs or my free time.
