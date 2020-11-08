@@ -2,9 +2,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nicolasbsn.nicolasbsn)
 <br />
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-Hi, My name is Nicolas and I am currently in a Master's Degree of Data Science at Ecole Polytechnique.
+# Hi, My name is Nicolas and I am currently in a Master's Degree of Data Science at Ecole Polytechnique.
 
-⚡️ The purpose of this Github
+# ⚡️ The purpose of this Github
 <br />
 This Github contains some of my work that I have done during my labs or my free time. The purpose of this, is to give you an overview of my previous work ! I'll also upload content at a regular basis !
 <!--
