@@ -1,5 +1,6 @@
 ## Hey there :wave:
 ![](https://visitor-badge.glitch.me/badge?page_id=nicolasbsn.nicolasbsn)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 <br />
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 ### Hi, My name is Nicolas and I am currently in a Master's Degree of Data Science at Ecole Polytechnique.
